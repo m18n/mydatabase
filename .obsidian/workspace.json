@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "olx аналіз.md",
-                "mode": "source",
+                "file": "Структура серверів olx аналіз.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "olx аналіз.md",
+                "file": "Структура серверів olx аналіз.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "olx аналіз.md",
+                "file": "Структура серверів olx аналіз.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "olx аналіз.md"
+                "file": "Структура серверів olx аналіз.md"
               }
             }
           }
@@ -154,10 +154,14 @@
   "active": "e39930b4e3bd45de",
   "lastOpenFiles": [
     "проекти.md",
+    "Структура серверів olx аналіз.md",
+    "olx server db.md",
+    "olx analiz serv.md",
+    "olx client.md",
     "olx аналіз.md",
-    "Блок з акумів тесла.md",
+    "olx main serv.md",
     "Піфагор.md",
     "Математика.md",
-    "Ідеї.md"
+    "Media/olx_server.png"
   ]
 }
