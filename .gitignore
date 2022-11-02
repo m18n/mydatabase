@@ -1,3 +1,5 @@
-.obsidian/
-english/.obsidian/
+.obsidian/*
+!.obsidian/graph.json
+english/.obsidian/*
+!english/.obsidian/graph.json
 .trash/
