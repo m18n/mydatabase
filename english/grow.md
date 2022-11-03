@@ -1,5 +1,8 @@
 #words 
-grow - рости
+grow -- рости
+<!--SR:!2022-11-06,3,250-->
 ### Речення
-1. Rich people constantly learn and **grow** - Багаті кожну хвилину свого життя вчаться і **зростають**.
-2. Logic says that [[property]] prices in Bulgaria will **grow** - Логіка говорить про те, що ціни на нерухомість у Болгарії будуть **рости**.
+1. Rich people constantly learn and **grow** -- Багаті кожну хвилину свого життя вчаться і **зростають**.
+<!--SR:!2022-11-06,3,250-->
+2. Logic says that [[property]] prices in Bulgaria will **grow** -- Логіка говорить про те, що ціни на нерухомість у Болгарії будуть **рости**.
+<!--SR:!2022-11-06,3,250-->
