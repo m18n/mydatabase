@@ -1,3 +1,3 @@
 #words 
-cawel --- вреблюд
+cawel ::: вреблюд
 [[animals]]

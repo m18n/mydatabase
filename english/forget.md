@@ -1,6 +1,6 @@
 #words 
-forget--забути
+forget::забути
 <!--SR:!2022-11-06,3,250-->
 ### Речення
-1. I will **never forget** that you helped me -- Я ніколи **не забуду** що ти мені допоміг.
+1. I will **never forget** that you helped me :: Я ніколи **не забуду** що ти мені допоміг.
 <!--SR:!2022-11-06,3,250-->
