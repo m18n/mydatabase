@@ -1,5 +1,6 @@
 #words 
-word-word 2 form-word 3 form
+### word(1)-word(2)-word(3)
+go(1)--went-gone
 eat(1)--ate-edten
 <!--SR:!2022-11-04,1,230-->
 drink(1)--drank-drunk
@@ -53,7 +54,7 @@ leave(1)--left-left
 win(1)--won-won
 <!--SR:!2022-11-06,3,250-->
 [[lose]](1)--lost-lost
-<!--SR:!2022-11-04,1,230-->
+<!--SR:!2022-11-06,2,230-->
 choose(1)--chose-chosen
 <!--SR:!2022-11-04,1,230-->
 [[grow]](1)--grew-grown
@@ -61,7 +62,7 @@ choose(1)--chose-chosen
 fly(1)--flew-flow
 <!--SR:!2022-11-04,1,230-->
 think(1)--thought-thought
-<!--SR:!2022-11-04,1,230-->
+<!--SR:!2022-11-05,1,210-->
 catch(1)--caught-caught
 <!--SR:!2022-11-04,1,230-->
 send(1)--sent-sent
@@ -84,5 +85,5 @@ tell(1)--told-told
 <!--SR:!2022-11-04,1,230-->
 speak(1)--spoke-spoken
 <!--SR:!2022-11-04,1,230-->
-
+see(1)--saw-seen
 [[Неправильні дієслова]]
