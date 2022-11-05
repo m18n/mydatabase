@@ -5,4 +5,5 @@ english/.obsidian/*
 !english/.obsidian/plugins/
 project/.obsidian/*
 !project/.obsidian/graph.json
+!project/.obsidian/plugins/
 .trash/
