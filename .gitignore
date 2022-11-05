@@ -2,4 +2,6 @@
 !.obsidian/graph.json
 english/.obsidian/*
 !english/.obsidian/graph.json
+project/.obsidian/*
+!project/.obsidian/graph.json
 .trash/

@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "path:project",
+      "color": {
+        "a": 1,
+        "rgb": 57855
+      }
+    },
+    {
       "query": "path:/",
       "color": {
         "a": 1,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8761151876716431,
-  "close": false
+  "scale": 0.612370033422231,
+  "close": true
 }
