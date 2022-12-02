@@ -1,0 +1,2 @@
+#words 
+attitude:::ставлення
