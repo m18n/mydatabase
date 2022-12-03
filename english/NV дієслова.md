@@ -25,7 +25,7 @@ cost-cost
 set-set
 put-put
 read-read
-<!--SR:!2022-11-13,3,268-->
+<!--SR:!2023-01-11,39,268-->
 
 understand(1)
 stand(1)
@@ -39,7 +39,7 @@ pay(1)
 ?
 paid-paid
 said-said
-<!--SR:!2022-11-13,3,250-->
+<!--SR:!2023-01-05,33,250-->
 
 tell(1)
 sell(1)
@@ -70,7 +70,7 @@ bought[bɔːt]-bought
 brought[brɔːt]-brought
 thought[θɔːt]-thought[θɔːt]
 caught-caught
-<!--SR:!2022-11-13,3,250-->
+<!--SR:!2023-01-09,37,250-->
 
 win(1)
 get(1)
@@ -105,19 +105,19 @@ give(1)
 ?
 forgave-forgiven
 gave-given
-<!--SR:!2022-11-12,2,249-->
+<!--SR:!2023-01-03,31,249-->
 
 
 drive(1)::drove-driven
-<!--SR:!2022-11-12,2,249-->
+<!--SR:!2023-01-01,29,249-->
 swim(1)::swam-sum
 <!--SR:!2022-11-12,2,249-->
 see(1)::saw-seen
 <!--SR:!2022-11-12,2,249-->
 eat(1)::ate-edten
-<!--SR:!2022-11-12,2,249-->
+<!--SR:!2022-12-07,4,229-->
 write(1)::wrote-written
-<!--SR:!2022-11-12,2,249-->
+<!--SR:!2022-12-07,4,229-->
 do(1)::did-done
 <!--SR:!2022-11-12,2,249-->
 [[forget]](1)::forgot-forgotten
@@ -125,6 +125,6 @@ do(1)::did-done
 leave(1)::left-left
 <!--SR:!2022-11-12,2,249-->
 choose[tʃuːz](1)::chose[tʃəʊz]-chosen[ˈtʃəʊ.zən]
-<!--SR:!2022-11-12,2,249-->
+<!--SR:!2023-01-04,32,249-->
 
 [[Неправильні дієслова]]
