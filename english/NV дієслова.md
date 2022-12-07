@@ -10,7 +10,7 @@ speak(1)
 hid-hidden
 rode-ridden
 spoke-spoken
-<!--SR:!2022-12-07,3,210-->
+<!--SR:!2022-12-12,5,210-->
 
 hit(1)
 [[hurt]](1)
@@ -115,9 +115,9 @@ swim(1)::swam-sum
 see(1)::saw-seen
 <!--SR:!2023-01-12,38,249-->
 eat(1)::ate-edten
-<!--SR:!2022-12-07,4,229-->
+<!--SR:!2022-12-18,11,229-->
 write(1)::wrote-written
-<!--SR:!2022-12-07,4,229-->
+<!--SR:!2022-12-16,9,229-->
 do(1)::did-done
 <!--SR:!2023-01-01,28,249-->
 [[forget]](1)::forgot-forgotten
