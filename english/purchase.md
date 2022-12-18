@@ -1,0 +1,2 @@
+#words 
+purchase:::копувати

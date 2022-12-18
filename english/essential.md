@@ -1,0 +1,2 @@
+#words 
+essential:::необхідний

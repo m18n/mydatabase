@@ -1,0 +1,2 @@
+#words 
+schedule \[ˈʃedjuːl]\ ::: графік

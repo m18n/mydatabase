@@ -1,0 +1,2 @@
+#words 
+avilable:::доступний

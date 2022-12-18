@@ -1,0 +1,3 @@
+#words 
+timetable:::графік
+[[schedule]]
