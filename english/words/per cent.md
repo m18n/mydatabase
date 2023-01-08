@@ -1,0 +1,2 @@
+#words 
+per cent:::відсоток

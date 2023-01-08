@@ -1,0 +1,2 @@
+#words 
+opportunity:::можливість
