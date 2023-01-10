@@ -1,0 +1,2 @@
+#words 
+minority:::меншість
